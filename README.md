@@ -94,21 +94,32 @@ Link to the Contributor information.
 
 ### Global Coverage Data Sources
 National Geospatial-intelligence Agency GeoNames (NGA GeoNames): https://geonames.nga.mil/namesgaz/
+
 Global Land Ice Measurements from Space (GLIMS): http://glims.colorado.edu/glacierdata/
+
 Randolph Glacier Inventory (RGI): https://www.glims.org/RGI/index.html
+
 World Glacier Monitoring Service Fluctuations of Glaciers Database (WGMS): http://www.wgms.ch/fogbrowser/
+
 World Glacier Inventory (WGI): http://nsidc.org/data/glacier_inventory/index.html
+
 Getty Thesaurus of Geographic Names Online (TGN): http://www.getty.edu/research/tools/vocabularies/tgn/
 - State/Province/Second Order Administrative Division information used in Coverage Spatial with some exceptions (Alaska: GNIS, outside the US was verified against NGA GeoNames). Lat/Long coordinates in this resource are NOT preferred.
 
 ### Country or Regional Data Sources
 Chile - Laboratorio de Glaciologia - https://glaciologia.cl/glaciares/
+
 Greenland - Naalakkersuisut/Government of Greenland Greenland Portal: http://maps.greenmin.gl/
+
 Norway - Norgeskart: https://www.norgeskart.no/
+
 Switzerland - Swiss Confederation Federal Geoportal: https://map.geo.admin.ch/
 - swissNAMES3D geographic names data set: https://shop.swisstopo.admin.ch/en/products/landscape/names3D
+
 Switzerland - SwissGlaciers.org: http://www.gletschervergleiche.ch/
+
 Switzerland - Glacier Monitoring Switzerland (GLAMOS): https://www.glamos.ch/
+
 United States - Geographic Names Information System (GNIS): https://geonames.usgs.gov/
 
 ### Other Resources
