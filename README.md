@@ -9,11 +9,11 @@ Please include the permanent address https://doi.org/10.26040/k237-e673 when sha
 Metadata fields for the NSIDC Glacier Photograph Collection:
 
 ### Identifier
-A unique identifier for the digital surrogate of the photographic print or digital born photograph. See the File Naming Convention. This field was called Photo ID during the pre-grant phase
+A unique identifier for the digital surrogate of the photographic print or digital born photograph. See the File Naming Convention. This field was called Photo ID during the pre-grant phase. naidc_glacierPhotos_ is prefix, second part of identifier is constructed according to different methods, depending on the phase of the project.
 ### IdentifierLink
 Linking information for the identifier. [may be blank]
 ### Identifier ARK
-ARK identifier for the resource in the University of Colorado Libraries database. [Permanent identifier]
+ARK identifier for the resource in the University of Colorado Libraries database. Controlled with the ARK server. [Permanent identifier]
 ### Identifier LUNA
 Identifier for the resource in the LUNA software. [May be retired after migration to a new platform.]
 ### Title
@@ -21,21 +21,32 @@ The name of glacier, state/province, and/or Aerial Flight number, and may contai
 ### TitleLink
 Linking information for the title. [may be blank]
 ### Creator
-Name of the photographer who took the photo. If the full name is known then it is used, otherwise first and/or middle initials are used. If the photographer name is not known, it is set to Unidentified.
-###	CreatorLink
-Linked data information for the creator. [may be blank]
+Name of the photographer who took the photo. If the full name is known then it is used, otherwise first and/or middle initials are used. If the photographer name is not known, it is set to Unidentified. Role is included after the creator's name (Post, Austin, photographer). 
+### CreatorLink
+Linked data information for the creator, if controllable. [may be blank]
 ### Publisher
 The entity or organization that published the photographs.
 ### PublisherLink
 Linked data information for the publisher. [may be blank]
 ### Date
-Date the photograph was taken.
+Date the photograph was taken. If no date was provided, list as Undated.
 ### DateLink
 Linking information for the date. [may be blank]
 ### Extent
 Extent of the item. Number of photographs, and dimensions in cm. and in. provided.
+
+Examples:
+
+1 photoprint; 20.3 x 12.7 cm (8 x 5 inches)
+
+1 photoprint
+
+1 color slide; 35 mm
+
+2 pages
+
 ### Format
-Format of the item.
+Format of the item. Control with AAT terms. See metadata for examples.
 ### FormatLink
 URI for the format.
 ### Description
