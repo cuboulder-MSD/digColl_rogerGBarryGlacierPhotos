@@ -54,7 +54,7 @@ Annotations and notes transcribed from the photographs as well as cataloger's no
 ### DescriptionLink	
 Linking information for the Description [may be blank]
 ### Glacier Name
-The name of the glacier, if known. If the name is Unknown then Unknown is used. If the photograph does not actually contain a glacier then it is labeled as No Glacier. Controlled name for the glacier is derived from GNIS, NGA GeoNames, a local names gazetteer, or one of the scientific databases. In rare cases, the names were derived from the labels on the photographs. The name used in this field is the authorized version. Notes about variant names or spellings used for the glacier pictured may appear in the Description field for those photographs.
+The name of the glacier, if known. If the name is Unknown then Unknown is used. If the photograph does not actually contain a glacier then it is labeled as No Glacier. Controlled name for the glacier is derived from GNIS, NGA GeoNames, a local names gazetteer, or one of the scientific databases. In rare cases, the names were derived from the labels on the photographs. The name used in this field is the authorized version, logged in the Glacier Index. Notes about variant names or spellings used for the glacier pictured may appear in the Description field for those photographs.
 ### Glacier Latitude
 Latitude of the primary glacier in the photograph. Coordinates are derived from an authoritative source, either GNIS, NGA GeoNames, a particular country's name authority board, GLIMS, or in rare cases, from notes on the photograph.
 ### Glacier Longitude
@@ -93,7 +93,7 @@ Rights statement URI.
 ### Credit
 Credit for the item.
 ### Source
-Source of the item.
+Source of the item if it was part of a greater whole.
 ### SourceLink
 Link for the Source.
 ### Contributor
@@ -141,7 +141,7 @@ Glaciers of Europe - GLACIERS OF NORWAY - U.S. Geological Survey Professional Pa
 ## Notes
 Many of the names and descriptions in this data set contain diacritical marks and symbols that are UTF-8 encoded. When opening this data, please be aware that programs like Excel do not handle these well unless the encoding type is specified on import. The team working on this data found that we had the fewest issues when working in Google Sheets. If manipulating the data in other programs, including OpenRefine, be sure to specify UTF-8 encoding.
 
-The schema for this collection is based on Dublin Core and the Glacier Photograph Collection schema, which was driven by requirements from the glaciology community.
+The schema for this collection is based on Dublin Core and the Glacier Photograph Collection (NSIDC) schema, which was driven by requirements from the glaciology community.
 
 ### Shameless plugs:
 OpenRefine, a tool for transforming and cleaning messy (or large amounts of) data: https://openrefine.org/
