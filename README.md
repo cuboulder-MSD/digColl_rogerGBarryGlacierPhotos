@@ -1,4 +1,4 @@
-# NSIDC Glacier Photograph Collection
+# Roger G. Barry Glacier Photographs Collection
 
 ## Description
 The National Snow and Ice Data Center (NSIDC) in Boulder, Colorado has a collection of Glacier Photographs that consists of roughly 30,000 photographs of glaciers, mostly taken in the Rocky Mountains, the Pacific Northwest, Alaska, and Greenland. Photographs were taken from both the air and the ground with a date range from the 1890s to the 1980s. The collection also includes a smaller number of photographs of glaciers in Europe, South America, the Himalayas, and Antarctica. These images constitute an important historical record, as well as a data collection of interest to those studying the response of glaciers to climate change. This digital collection consists of a selection of images from the collection. For more information about the NSIDC data, please see Glacier Photograph Collection, Version 1. 
